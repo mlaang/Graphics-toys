@@ -9,4 +9,4 @@ The sphere raytracer, a version of which runs in the browser can be found [here]
 
 ## Hyperboloid of revolution
 
-A small program that draws animated hyperboloids of revolution in black, a version of which runs in the browser can be found [here](https://www.shadertoy.com/view/wdSBRt). Hyperboloids of revolution can be viewed as the surface consisting of a the set of circles in the plane orthogonal to a line which pass through another, given line. This is not how they're usually defined, but as can be seen, it allows them to be drawn easily.
+A small program that draws animated hyperboloids of revolution in black, a version of which runs in the browser can be found [here](https://www.shadertoy.com/view/wdSBRt). Hyperboloids of revolution can be viewed as the surface consisting of a the set of circles in the plane orthogonal to a line which pass through another, given line. This is not how they're usually defined, although it is equivalent to the conventional definition and is a shorter description, which incidentally allows them to be drawn easily.
