@@ -13,6 +13,6 @@ A small program that draws animated hyperboloids of revolution, a version of whi
 
 ## Refraction
 
-An extension of the sphere raytracer with refraction added. A version of it running in the browser can be found [here](https://www.shadertoy.com/view/tt2cD3).
+An extension of the sphere raytracer with refraction added. A version of it running in the browser can be found [here](https://www.shadertoy.com/view/tt2cD3). It's somewhat less harmonious than the original. 
 
 ![Image from sphere raytracer with added refraction.](https://raw.githubusercontent.com/mlaang/Graphics-toys/master/Refraction.gif)
